@@ -3,6 +3,8 @@
 This is the official website for **Protocol**, the Computer Science Engineering club of **BMS College of Engineering (BMSCE)**.
 It includes all public information, events, core team members, and **Synergy Weekly**, the club’s weekly tech newsletter.
 
+https://theaaryanprakash.github.io/protocol-website/index.html
+
 ---
 
 ## 🚀 **Features**
